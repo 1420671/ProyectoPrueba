@@ -1,4 +1,4 @@
-package com.a000webhostapp.knowledgemanagement.knowledgemanagement;
+package com.utp.projects.knowledgemanagement;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.a000webhostapp.knowledgemanagement.knowledgemanagement;
+package com.utp.projects.knowledgemanagement;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
